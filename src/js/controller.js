@@ -40,8 +40,6 @@ const controlRecipes = async function () {
   }
 };
 
-console.log('gg');
-
 const controlSearchResults = async function () {
   try {
     resultsView.renderSpinner();
